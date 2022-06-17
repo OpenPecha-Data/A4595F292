@@ -1,0 +1,19 @@
+segment_sources:
+  I268A4520:
+    type: origin_type
+    relation: translation
+    language: en
+  I54A9A915:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  522b77abdc664aeda42c1e09fda4b1ce:
+    I268A4520: 1419ef748e9b4c87a9bd3e173a24c743
+    I54A9A915: 1d6ba41eb1ea44a0b38a9fc24e7fe4d2
+  a7c273d4df1f4c44b229775dd4d2b403:
+    I268A4520: 6cad6685b922499fba538d0d3eff8dce
+    I54A9A915: 6807598ac276485dbd9617638b3e020b
+  0994783906174f4eb63fcf4d8b7a8840:
+    I268A4520: e4009802b681485fa76e72830ab01ae0
+    I54A9A915: d6cd48342d5f45918fe9c0e896051335
